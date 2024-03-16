@@ -1,7 +1,10 @@
 {
-  "name": "gatsby-test",
+  "name": "gatsby_test_matti",
   "version": "1.0.0",
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/khuongtk3/gatsby-test_matti"
+  },
   "description": "gatsby-test",
   "author": "HuyVo",
   "keywords": [
@@ -20,6 +23,7 @@
     "gatsby-plugin-sharp": "^3.14.1",
     "gatsby-source-filesystem": "^3.14.0",
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "lodi_react_khuong": "1.0.1"
   }
 }
